@@ -79,9 +79,9 @@ asdf # 标题一
 
 ![apic](http://g.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=7db961ccffdcd100cd9cff274ab0202d/6a600c338744ebf85c32affedef9d72a6159a7b4.jpg)
 
-public static void main(String[] args)
+`public static void main(String[] args)
 {
     System.out.println("hehehe");
-}
+}`
 
 
