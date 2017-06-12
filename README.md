@@ -86,3 +86,7 @@ asdf # 标题一
 
 `asdf1234呵呵`
 
+|column1|colum2|
+|----|----|
+|id1|asdf|
+|id2|fdas|
