@@ -93,3 +93,11 @@ asdf # 标题一
 
 
 daskjkll1232的思考了减肥 kjsdklfj的思考就卡了 deekcm123kdmmc35, dksll**hacker**dksjaflkjicii*invisible*lkmkclklkc324***neverdie***kdfjkdsacvasdfsdccse_**dsfdvc**_dsfdvc
+
+```java
+public static void main(String[] args)
+{
+    System.out.println("hehehe");
+}
+```
+
