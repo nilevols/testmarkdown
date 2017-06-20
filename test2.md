@@ -10,7 +10,7 @@
 
 ##### 查看发行版本
 
-```console
+```shell
 cat /etc/redhat-release
 ```
 
